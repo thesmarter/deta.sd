@@ -1,0 +1,1 @@
+import{b as s,s as t}from"./index.DRygy6t_.js";const u=()=>s({queryKey:["countries"],queryFn:async()=>{const{data:e,error:r}=await t.from("countries").select("*").order("name_ar",{ascending:!0});if(r)throw r;return e}});export{u};

@@ -1,0 +1,213 @@
+{
+  "site": "https://deta.sd",
+  "company": "Deta Trading (Deta Group)",
+  "company_ar": "أعمال ديتا التجارية (مجموعة ديتا)",
+  "location": "Khartoum, Sudan",
+  "experience": "15+ years",
+  "contact": "https://deta.sd/contact",
+  "sitemap": "https://deta.sd/sitemap.xml",
+  "feed": "https://deta.sd/feed.xml",
+  "generated_at": "2026-11-06T14:34:24.547Z",
+  "products": [
+    {
+      "id": "20000000-0000-4000-8000-000000000012",
+      "slug": "sesame-oil-cold-pressed",
+      "url": "https://deta.sd/products/sesame-oil-cold-pressed",
+      "name": "Cold-Pressed Sesame Oil"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000009",
+      "slug": "hibiscus-whole",
+      "url": "https://deta.sd/products/hibiscus-whole",
+      "name": "Dried Sudanese Hibiscus"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000007",
+      "slug": "peanut-kernels-8090",
+      "url": "https://deta.sd/products/peanut-kernels-8090",
+      "name": "Groundnut Kernels 80/90"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000004",
+      "slug": "gum-hashab-handpicked",
+      "url": "https://deta.sd/products/gum-hashab-handpicked",
+      "name": "Hand-Picked Hashab Gum Arabic"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000008",
+      "slug": "peanut-inshell",
+      "url": "https://deta.sd/products/peanut-inshell",
+      "name": "In-Shell Groundnuts"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000002",
+      "slug": "sesame-hulled-premium",
+      "url": "https://deta.sd/products/sesame-hulled-premium",
+      "name": "Premium Hulled Sesame 99.95%"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "slug": "sesame-natural-gadaref",
+      "url": "https://deta.sd/products/sesame-natural-gadaref",
+      "name": "Premium Natural Sesame (Gedaref)"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000006",
+      "slug": "gum-powder-spray-dried",
+      "url": "https://deta.sd/products/gum-powder-spray-dried",
+      "name": "Spray-Dried Gum Arabic Powder"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000003",
+      "slug": "sesame-hulled-standard",
+      "url": "https://deta.sd/products/sesame-hulled-standard",
+      "name": "Standard Hulled Sesame"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000015",
+      "slug": "chickpeas-sudanese",
+      "url": "https://deta.sd/products/chickpeas-sudanese",
+      "name": "Sudanese Chickpeas"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000010",
+      "slug": "sorghum-feterita",
+      "url": "https://deta.sd/products/sorghum-feterita",
+      "name": "Sudanese Feterita Sorghum"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000014",
+      "slug": "fodder-alfalfa-rhodes",
+      "url": "https://deta.sd/products/fodder-alfalfa-rhodes",
+      "name": "Sudanese Fodder (Alfalfa and Rhodes)"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000013",
+      "slug": "cotton-long-staple",
+      "url": "https://deta.sd/products/cotton-long-staple",
+      "name": "Sudanese Long-Staple Cotton"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000005",
+      "slug": "gum-talha",
+      "url": "https://deta.sd/products/gum-talha",
+      "name": "Talha Gum Arabic"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000011",
+      "slug": "watermelon-seeds",
+      "url": "https://deta.sd/products/watermelon-seeds",
+      "name": "Watermelon Seeds"
+    }
+  ],
+  "articles": [
+    {
+      "id": "30000000-0000-4000-8000-000000000015",
+      "slug": "sudanese-fodder-export",
+      "url": "https://deta.sd/news/sudanese-fodder-export",
+      "title": "الأعلاف السودانية: برسيم ورودس بجودة تصديرية لأسواق المنطقة"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000018",
+      "slug": "global-shipping-certificates-guide",
+      "url": "https://deta.sd/news/global-shipping-certificates-guide",
+      "title": "الدليل الشامل للشحن البحري وشروط التجارة العالمية وشهادات التصدير"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000011",
+      "slug": "sesame-sudanese-export",
+      "url": "https://deta.sd/news/sesame-sudanese-export",
+      "title": "السمسم السوداني الفاخر: متوفر الآن للتصدير والطلب المباشر"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000004",
+      "slug": "port-sudan-logistics",
+      "url": "https://deta.sd/news/port-sudan-logistics",
+      "title": "الشحن عبر ميناء بورتسودان: FOB وCIF وتجهيز الحاويات ومدد الوصول"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000012",
+      "slug": "gum-arabic-export",
+      "url": "https://deta.sd/news/gum-arabic-export",
+      "title": "الصمغ العربي السوداني: هشاب وطلحة متوفرة للتصدير العالمي"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000007",
+      "slug": "china-groundnut-market-2025",
+      "url": "https://deta.sd/news/china-groundnut-market-2025",
+      "title": "الطلب الصيني على الفول السوداني المقشور في 2025: ميزة الحبوب السودانية"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000016",
+      "slug": "peanuts-chickpeas-export",
+      "url": "https://deta.sd/news/peanuts-chickpeas-export",
+      "title": "الفول السوداني والحمص: بقوليات سودانية بمواصفات تصديرية متوفرة الآن"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000014",
+      "slug": "sudanese-cotton-export",
+      "url": "https://deta.sd/news/sudanese-cotton-export",
+      "title": "القطن السوداني طويل التيلة: عودة الذهب الأبيض إلى الأسواق العالمية"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000017",
+      "slug": "hibiscus-sorghum-export",
+      "url": "https://deta.sd/news/hibiscus-sorghum-export",
+      "title": "الكركديه والفتريتة: كنوز سودانية حمراء وذهبية متوفرة للتصدير"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000008",
+      "slug": "eco-friendly-export-packaging",
+      "url": "https://deta.sd/news/eco-friendly-export-packaging",
+      "title": "تغليف صادرات صديق للبيئة: أكياس 25 و50 كيلو بمعايير الغذاء العالمية"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000013",
+      "slug": "watermelon-seeds-export",
+      "url": "https://deta.sd/news/watermelon-seeds-export",
+      "title": "حب البطيخ السوداني (اللب): محصول التصدير الصاعد متوفر الآن"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000002",
+      "slug": "gum-arabic-grades-guide",
+      "url": "https://deta.sd/news/gum-arabic-grades-guide",
+      "title": "دليل درجات الصمغ العربي: الهشاب مقابل الطلحة — المواصفات والاستخدامات"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000003",
+      "slug": "sudan-export-documents-guide",
+      "url": "https://deta.sd/news/sudan-export-documents-guide",
+      "title": "دليل مستندات التصدير من السودان خطوة بخطوة"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000006",
+      "slug": "cold-pressed-sesame-oil-line",
+      "url": "https://deta.sd/news/cold-pressed-sesame-oil-line",
+      "title": "ديتا تدشن خط عصر زيت السمسم على البارد بمعايير سلامة الغذاء"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000009",
+      "slug": "deta-customs-tracking-software",
+      "url": "https://deta.sd/news/deta-customs-tracking-software",
+      "title": "ذراع ديتا البرمجية تطلق نظام تتبع الطلبات ووثائق التصدير للعملاء"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000010",
+      "slug": "deta-vision-partnerships",
+      "url": "https://deta.sd/news/deta-vision-partnerships",
+      "title": "رؤية ديتا: أكثر من 15 عاما و200 مختص وشراكات عبر المنطقة والعالم"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000005",
+      "slug": "hibiscus-quality-standards",
+      "url": "https://deta.sd/news/hibiscus-quality-standards",
+      "title": "معايير جودة الكركديه السوداني للمشترين الأوروبيين"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000001",
+      "slug": "sesame-harvest-2026",
+      "url": "https://deta.sd/news/sesame-harvest-2026",
+      "title": "موسم حصاد السمسم في القضارف 2026: جودة عالية وجاهزية للتصدير"
+    }
+  ]
+}

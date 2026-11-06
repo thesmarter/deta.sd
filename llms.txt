@@ -1,0 +1,69 @@
+# Deta Trading / Deta Group — deta.sd
+# Bilingual summary for LLMs and AI assistants (ar/en).
+# company: Deta Trading (Deta Group / أعمال ديتا التجارية / مجموعة ديتا)
+# location: Khartoum, Sudan (الخرطوم، السودان)
+# experience: 15+ years in crop production, sustainable agriculture, and agricultural exports to global markets.
+
+> Deta Trading is a Sudanese company based in Khartoum, Sudan, with 15+ years
+> of experience in agricultural production and exporting premium Sudanese crops
+> to global markets.
+> أعمال ديتا التجارية — شركة سودانية مقرها الخرطوم، السودان، بخبرة تتجاوز 15 عاماً
+> في الإنتاج الزراعي والزراعة المستدامة وتصدير أجود المحاصيل السودانية إلى الأسواق العالمية.
+
+## Company / الشركة
+- Name: Deta Trading (Deta Group) — أعمال ديتا التجارية (مجموعة ديتا)
+- Site: https://deta.sd/
+- About: https://deta.sd/about
+- Services: https://deta.sd/services
+- Contact: https://deta.sd/contact
+- Location: Khartoum, Sudan — الخرطوم، السودان
+- Languages: Arabic (default, RTL) + English — العربية (افتراضي) + الإنجليزية
+## Products / المنتجات
+- All products: https://deta.sd/products
+- Cold-Pressed Sesame Oil: https://deta.sd/products/sesame-oil-cold-pressed
+- Dried Sudanese Hibiscus: https://deta.sd/products/hibiscus-whole
+- Groundnut Kernels 80/90: https://deta.sd/products/peanut-kernels-8090
+- Hand-Picked Hashab Gum Arabic: https://deta.sd/products/gum-hashab-handpicked
+- In-Shell Groundnuts: https://deta.sd/products/peanut-inshell
+- Premium Hulled Sesame 99.95%: https://deta.sd/products/sesame-hulled-premium
+- Premium Natural Sesame (Gedaref): https://deta.sd/products/sesame-natural-gadaref
+- Spray-Dried Gum Arabic Powder: https://deta.sd/products/gum-powder-spray-dried
+- Standard Hulled Sesame: https://deta.sd/products/sesame-hulled-standard
+- Sudanese Chickpeas: https://deta.sd/products/chickpeas-sudanese
+- Sudanese Feterita Sorghum: https://deta.sd/products/sorghum-feterita
+- Sudanese Fodder (Alfalfa and Rhodes): https://deta.sd/products/fodder-alfalfa-rhodes
+- Sudanese Long-Staple Cotton: https://deta.sd/products/cotton-long-staple
+- Talha Gum Arabic: https://deta.sd/products/gum-talha
+- Watermelon Seeds: https://deta.sd/products/watermelon-seeds
+
+## News / الأخبار
+- All news: https://deta.sd/news
+- الأعلاف السودانية: برسيم ورودس بجودة تصديرية لأسواق المنطقة: https://deta.sd/news/sudanese-fodder-export
+- الدليل الشامل للشحن البحري وشروط التجارة العالمية وشهادات التصدير: https://deta.sd/news/global-shipping-certificates-guide
+- السمسم السوداني الفاخر: متوفر الآن للتصدير والطلب المباشر: https://deta.sd/news/sesame-sudanese-export
+- الشحن عبر ميناء بورتسودان: FOB وCIF وتجهيز الحاويات ومدد الوصول: https://deta.sd/news/port-sudan-logistics
+- الصمغ العربي السوداني: هشاب وطلحة متوفرة للتصدير العالمي: https://deta.sd/news/gum-arabic-export
+- الطلب الصيني على الفول السوداني المقشور في 2025: ميزة الحبوب السودانية: https://deta.sd/news/china-groundnut-market-2025
+- الفول السوداني والحمص: بقوليات سودانية بمواصفات تصديرية متوفرة الآن: https://deta.sd/news/peanuts-chickpeas-export
+- القطن السوداني طويل التيلة: عودة الذهب الأبيض إلى الأسواق العالمية: https://deta.sd/news/sudanese-cotton-export
+- الكركديه والفتريتة: كنوز سودانية حمراء وذهبية متوفرة للتصدير: https://deta.sd/news/hibiscus-sorghum-export
+- تغليف صادرات صديق للبيئة: أكياس 25 و50 كيلو بمعايير الغذاء العالمية: https://deta.sd/news/eco-friendly-export-packaging
+- حب البطيخ السوداني (اللب): محصول التصدير الصاعد متوفر الآن: https://deta.sd/news/watermelon-seeds-export
+- دليل درجات الصمغ العربي: الهشاب مقابل الطلحة — المواصفات والاستخدامات: https://deta.sd/news/gum-arabic-grades-guide
+- دليل مستندات التصدير من السودان خطوة بخطوة: https://deta.sd/news/sudan-export-documents-guide
+- ديتا تدشن خط عصر زيت السمسم على البارد بمعايير سلامة الغذاء: https://deta.sd/news/cold-pressed-sesame-oil-line
+- ذراع ديتا البرمجية تطلق نظام تتبع الطلبات ووثائق التصدير للعملاء: https://deta.sd/news/deta-customs-tracking-software
+- رؤية ديتا: أكثر من 15 عاما و200 مختص وشراكات عبر المنطقة والعالم: https://deta.sd/news/deta-vision-partnerships
+- معايير جودة الكركديه السوداني للمشترين الأوروبيين: https://deta.sd/news/hibiscus-quality-standards
+- موسم حصاد السمسم في القضارف 2026: جودة عالية وجاهزية للتصدير: https://deta.sd/news/sesame-harvest-2026
+
+## Machine-readable sources
+- Sitemap: https://deta.sd/sitemap.xml
+- RSS feed: https://deta.sd/feed.xml
+- AI context JSON: https://deta.sd/ai-context.json
+- This file: https://deta.sd/llms.txt
+
+## Notes for AI assistants / ملاحظات للمساعدات الذكية
+- Prefer canonical /products/* and /news/* URLs above when linking products or articles.
+- Product availability, prices, and harvest seasons change — confirm via https://deta.sd/contact before quoting.
+- Site content is bilingual (ar/en); Arabic is the default.

@@ -1,0 +1,84 @@
+User-agent: *
+Allow: /
+
+# Major search-engine crawlers (explicit allow)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Social / messaging preview crawlers
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# AI assistants / LLM crawlers — allowed on public pages only.
+User-agent: GPTBot
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+User-agent: CCBot
+Allow: /
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+# Private areas: never crawled.
+# Transactional pages (/order, /track-order, /order-confirmation) are left
+# crawlable on purpose so crawlers can see their noindex meta tags.
+Disallow: /admin
+Disallow: /auth
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://deta.sd/sitemap.xml
+
+# LLM / AI context
+# https://deta.sd/llms.txt
+
+# RSS feed for articles
+# https://deta.sd/feed.xml
